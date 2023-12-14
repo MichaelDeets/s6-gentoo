@@ -1,0 +1,3 @@
+#!/bin/execlineb -P
+if -n { test -e /dev/zram0 } 
+swapoff /dev/zram0

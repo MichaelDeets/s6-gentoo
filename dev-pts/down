@@ -1,2 +1,2 @@
 #!/bin/execlineb -P
-foreground { /bin/s6-umount /dev/pts }
+/bin/umount -R /dev/pts

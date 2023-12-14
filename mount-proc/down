@@ -1,2 +1,2 @@
 #!/bin/execlineb -P
-foreground { /bin/s6-umount /proc }
+foreground { /bin/umount -R /proc }

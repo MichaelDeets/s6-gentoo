@@ -1,2 +1,2 @@
 #!/bin/execlineb -P
-foreground { /bin/s6-umount /sys }
+foreground { /bin/umount -R /sys }
