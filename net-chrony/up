@@ -1,3 +1,3 @@
 #!/bin/execlineb -P
-if { /usr/sbin/chronyd -d -s -q }
+/usr/sbin/chronyd -d -s -q
 
