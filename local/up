@@ -1,0 +1,3 @@
+#!/bin/execlineb -P
+foreground { /bin/bash /etc/local.d/xdg.start }
+foreground { /bin/bash /etc/local.d/sysctl.start }

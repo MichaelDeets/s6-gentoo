@@ -1,0 +1,2 @@
+#!/bin/execlineb -P
+foreground { /bin/bash /etc/local.d/xdg.stop }

@@ -1,0 +1,3 @@
+#!/bin/execlineb -P
+foreground { /usr/sbin/chronyd -d -s -q }
+
