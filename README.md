@@ -1,4 +1,6 @@
-This is a personal backup for my S6 service scripts. Should not be used as is; take these scripts as an example of a working configuration only.
+This is a personal backup for my S6 service scripts. 
+
+Should not be used as is; take these scripts as an example of a working configuration only.
 
 The following were used in the process of creating this repo:
 
