@@ -1,2 +1,2 @@
 #!/bin/execlineb -P
- /bin/umount -a
+/bin/umount -al

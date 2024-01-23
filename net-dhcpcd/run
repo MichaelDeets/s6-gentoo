@@ -1,2 +1,2 @@
 #!/bin/execlineb -P
-foreground { /sbin/dhcpcd -B -M }
+foreground { /sbin/dhcpcd -B -M -L }
